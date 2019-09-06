@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\XMLHelp.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\XMLHelp.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\XMLHelp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
