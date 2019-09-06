@@ -26,6 +26,7 @@ namespace WindowsFormsApp1
         }
         string filePath1 = string.Empty;
         string filePath2 = string.Empty;
+        int count = 0;
         private void button1_Click(object sender, EventArgs e)
         {
             //创建文件弹出选择窗口（包括文件名）对象
@@ -61,6 +62,7 @@ namespace WindowsFormsApp1
             var childTarget = docTarget.Descendants().Where(d => d.Name == "data");
             target = childTarget.Elements();
             this.progressBar1.Maximum = target.Count();
+            count= target.Count();
             //提供修改的数据
             var docSource = XDocument.Load(filePath2);
             XElement rootNodeSource = docSource.Root;
@@ -134,6 +136,7 @@ namespace WindowsFormsApp1
             this.progressBar1.Value = e.ProgressPercentage;
             //e.ProgressPercentage  获取异步操作进度的百分比
             //this.prompt.Text = "处理条数:" + Convert.ToString(e.ProgressPercentage);
+            this.percentageLab.Text = "处理进度:"+Convert.ToString((e.ProgressPercentage/ count)*100) +"%";
             this.prompt.Text = "处理条数:" + Convert.ToString(e.UserState);
 
         }

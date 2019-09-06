@@ -17,3 +17,13 @@ D:\MyWorkProject\XMLHlep\WindowsFormsApp1\obj\Debug\XMLReplace.csproj.GenerateRe
 D:\MyWorkProject\XMLHlep\WindowsFormsApp1\obj\Debug\XMLReplace.csproj.CoreCompileInputs.cache
 D:\MyWorkProject\XMLHlep\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\MyWorkProject\XMLHlep\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Dell\Desktop\New folder\XmlHelperTool-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Dell\Desktop\New folder\XmlHelperTool-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Dell\Desktop\New folder\XmlHelperTool-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Dell\Desktop\New folder\XmlHelperTool-master\WindowsFormsApp1\obj\Debug\XMLReplace.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\New folder\XmlHelperTool-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XmlTool.resources
+C:\Users\Dell\Desktop\New folder\XmlHelperTool-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Dell\Desktop\New folder\XmlHelperTool-master\WindowsFormsApp1\obj\Debug\XMLReplace.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\New folder\XmlHelperTool-master\WindowsFormsApp1\obj\Debug\XMLReplace.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder\XmlHelperTool-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Dell\Desktop\New folder\XmlHelperTool-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
